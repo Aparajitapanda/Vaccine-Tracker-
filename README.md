@@ -18,7 +18,16 @@ The data is sourced on a real-time basis from the CoWIN API, which is the offici
 ## 🏁 Technology Stack
 
 <p align="center">
- <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOFOrxqm61nf2fg3VPlzuM59S0mBugqfawg&usqp=CAU"></img>
+ ![Html Version](https://img.shields.io/badge/html-v5-orange)
+ ![CSS Version](https://img.shields.io/badge/css-v3-blue)
+ ![JavaScript Version](https://img.shields.io/badge/JavaScript-ES6-yellow)
+   ![Express Version](https://img.shields.io/badge/Express%20Js-%5E4.17.1-yellow)
+ ![Node Version](https://img.shields.io/badge/node-v12.16.3-yellowgreen.svg)
+![NPM Version](https://img.shields.io/badge/npm-v6.14.4-blue.svg)
+![Language: American English](https://img.shields.io/badge/language-american%20english-red.svg)
+![Bootsrap Version](https://img.shields.io/badge/Bootstrap-%5E4-blueviolet)
+</p>
+
 
 * [HTML](https://www.w3.org/TR/html52)<br />
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br />
