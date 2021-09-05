@@ -17,6 +17,8 @@ The data is sourced on a real-time basis from the CoWIN API, which is the offici
 
 ## 🏁 Technology Stack
 
+<p align="center">
+ <img height="200" width ="200" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOFOrxqm61nf2fg3VPlzuM59S0mBugqfawg&usqp=CAU"></img>
 
 * [HTML](https://www.w3.org/TR/html52)<br />
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br />
