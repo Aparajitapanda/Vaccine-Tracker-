@@ -17,6 +17,7 @@ The data is sourced on a real-time basis from the CoWIN API, which is the offici
 
 ## 🏁 Technology Stack
 
+![Bootsrap Version](https://img.shields.io/badge/Bootstrap-%5E4-blueviolet)
 
 
 
