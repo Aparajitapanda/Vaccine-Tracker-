@@ -16,24 +16,16 @@ The data is sourced on a real-time basis from the CoWIN API, which is the offici
 
 
 ## 🏁 Technology Stack
-<p align="center">
-<img height="200" width ="300" src = "https://user-images.githubusercontent.com/56405152/125989130-6948a657-e059-49c4-85e3-4ec3f90f4deb.png"></img>
-<img height="200" width ="200" src = "https://user-images.githubusercontent.com/56405152/125989579-a00eb116-84eb-4bb8-a5e5-5cccfc24de9c.png"></img>
-<img height="200" width ="200" src = "https://user-images.githubusercontent.com/56405152/125989742-c06ee9d6-0663-4706-a600-bc9dd4f5b34e.png"></img>
-</p>
-<img height="200" width ="200" src = "https://user-images.githubusercontent.com/56405152/125989742-c06ee9d6-0663-4706-a600-bc9dd4f5b34e.png"></img>
-</p>
 
 
 * [HTML](https://www.w3.org/TR/html52)<br />
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br />
 * [Bootstrap](https://getbootstrap.com)<br />
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br />
-* [ES6](https://www.w3schools.com/js/js_es6.asp)<br />
 * [Express js](https://devdocs.io/express/)<br />
 * [Nodejs](https://nodejs.dev/learn)
 
-## 🏃‍♂️ Local Installation
+
 
 ## 🏃‍♂️ Getting Started
 
