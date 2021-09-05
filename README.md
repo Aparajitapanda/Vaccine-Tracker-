@@ -145,7 +145,7 @@ git push -u origin <your_branch_name>
 
 **15** Voila :exclamation: You have made a PR to the Vaccine-Tracker-App project :boom: Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days
 
-<p align="center"><img src="https://media0.giphy.com/media/qo89zWPnfaOK4Ng74U/giphy.gif?cid=ecf05e470q4spfxbjyyruan7hrxwpsqdawjnma5rmcj49vv7&rid=giphy.gif&ct=g</p>
+<p align="center"><img src="https://media0.giphy.com/media/qo89zWPnfaOK4Ng74U/giphy.gif?cid=ecf05e470q4spfxbjyyruan7hrxwpsqdawjnma5rmcj49vv7&rid=giphy.gif&ct=g"></p>
 
 
 
