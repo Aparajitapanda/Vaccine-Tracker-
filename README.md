@@ -17,7 +17,6 @@ The data is sourced on a real-time basis from the CoWIN API, which is the offici
 
 ## 🏁 Technology Stack
 <p align="center">
-<img height="200" width ="200" src = "https://user-images.githubusercontent.com/56405152/125989051-99f28b39-b160-4d7b-ab7b-249479f94890.png"></img>
 <img height="200" width ="300" src = "https://user-images.githubusercontent.com/56405152/125989130-6948a657-e059-49c4-85e3-4ec3f90f4deb.png"></img>
 <img height="200" width ="200" src = "https://user-images.githubusercontent.com/56405152/125989579-a00eb116-84eb-4bb8-a5e5-5cccfc24de9c.png"></img>
 <img height="200" width ="200" src = "https://user-images.githubusercontent.com/56405152/125989742-c06ee9d6-0663-4706-a600-bc9dd4f5b34e.png"></img>
