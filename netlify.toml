@@ -1,3 +1,0 @@
-[build]
-command = "npm run build"   # If you need to run a build step
-publish = "public"          # The directory to deploy (change this according to your project's structure)
